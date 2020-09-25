@@ -1,0 +1,22 @@
+{
+  "name": "discbot2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VictorM",
+  "license": "ISC",
+  "dependencies": {
+    "alphavantage": "^2.2.0",
+    "boxhock_google-finance-data": "^0.1.0",
+    "discord.js": "^12.3.1",
+    "finnhub": "^1.2.1",
+    "stock-info": "^1.2.0",
+    "unibit-js": "^1.0.1",
+    "weather-js": "^2.0.0",
+    "yahoo-stock-api": "^1.0.4",
+    "yahoo-stock-prices": "^1.0.1"
+  }
+}
